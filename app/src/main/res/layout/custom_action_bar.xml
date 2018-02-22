@@ -12,7 +12,7 @@
 		android:layout_width="36dp"
 		android:layout_height="36dp"
 		android:layout_gravity="center_vertical"
-		android:background="@color/colorPrimaryDark"
+		android:background="@drawable/action_bar_button"
 		app:srcCompat="@drawable/ic_arrow_back_white_24dp" />
 
 	<TextView
@@ -37,7 +37,7 @@
 		android:layout_gravity="center_vertical"
 		android:layout_marginEnd="@dimen/view_margin"
 		android:layout_marginRight="@dimen/view_margin"
-		android:background="@color/colorPrimaryDark"
+		android:background="@drawable/action_bar_button"
 		app:srcCompat="@drawable/ic_arrow_forward_white_24dp" />
 
 </LinearLayout>
